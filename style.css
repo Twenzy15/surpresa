@@ -5,6 +5,7 @@
 }
 body{
     background-color: black;
+    background-image: url(/mount-dançando.gif);
 }
 audio{
     display: none;
